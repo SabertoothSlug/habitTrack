@@ -1,0 +1,11 @@
+.vertFlex{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    align-content: space-between;
+    height: 500px;
+    column-gap: 50px;
+}
+.vertFlex input {
+    column-gap: 50px;
+}
